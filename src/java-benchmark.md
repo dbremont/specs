@@ -1,12 +1,18 @@
-Design a Beutiful Inetraction  Web Based Report Site for the Presention of This Benchmarks - With Vanilla HTML - and Can Use a CSS Library
+Generate a web site - for the presentation of the Following Becnhmark 
+
+- Web Site Technical Featutes
+
+- Vanilla HTML,
+- Use Tailwind CSS
+- Use Apache ECharts
+
+Benchmark Spec:
 
 I Need to Design and Conduct a Benchmark on Java Standard Library Collections  (ArrayList, LinkedList, Collections.synchronizedList(new ArrayList<>());)  :
 
-- Introduction
-- Executive Summary
-- System Specification
-
-**Execution Environment**
+- Introduction & Summary
+- System Under Test (SUT)
+**Specification Environment**
 	- JVM implementation (e.g., OpenJDK HotSpot)
 	- JVM version and vendor
 	- Garbage Collector (G1, ZGC, Shenandoah, Serial)
@@ -80,11 +86,12 @@ Workload Design
 
 - Results Presentation  (Generate a presentation of synthethic results - make sure to generate a sort of tab based horizontal presentation for this results)
 	- Analysis Dimenions: Workload; -> Results; Key Findings
-	- Dimensions: Time (Tought; Latency); Space; Others (GC, ...), ...
+	- Dimensions: Time (Throughput; Latency); Space; Throughput Scaling with Data Size, Others (GC, ...), ...
 
 - Conclusions
 
-Generate  here a type of a soft of execuity summary here.
+	- Generate a comparison; workload; data structure; 
+	- Geneary a Summary of the Findings
 
 - References
 
