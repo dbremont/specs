@@ -9,6 +9,12 @@ Generate a web site - for the presentation of the Following Becnhmark
     - Trademark (Java Benchmark)
     - Benchmark Name
     - ToC (That Get's Mark as Selected - In Correspondance with the Current Section)  Plus Being Able to Jump to the Section by Clicks on ToC.
+- SEO: Meta tags, Open Graph, structured data for "SoftwareSourceCode"
+- Data: Confidence intervals, outlier detection, downloadable datasets
+
+UX:
+- Dark mode, mobile-optimized tables, loading states, error boundaries
+- Visual polish: ....
 
 Benchmark Spec:
 
@@ -91,6 +97,8 @@ Workload Design
 - Results Presentation  (Generate a presentation of synthethic results - make sure to generate a sort of tab based horizontal presentation for this results)
 	- Analysis Dimenions: Workload; -> Results; Key Findings
 	- Dimensions: Time (Throughput; Latency); Space; Throughput Scaling with Data Size, Others (GC, ...), ...
+
+- Reproducibility & Raw Data
 
 - Conclusions
 
