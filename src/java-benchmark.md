@@ -5,6 +5,10 @@ Generate a web site - for the presentation of the Following Becnhmark
 - Vanilla HTML,
 - Use Tailwind CSS
 - Use Apache ECharts
+- Header:
+    - Trademark (Java Benchmark)
+    - Benchmark Name
+    - ToC (That Get's Mark as Selected - In Correspondance with the Current Section)
 
 Benchmark Spec:
 
