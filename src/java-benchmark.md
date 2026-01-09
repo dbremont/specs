@@ -49,13 +49,15 @@ The generated benchmark report is considered valid only if:
 
 #### Header (Persistent)
 
-* Branding: **Java: Informe de Rendimiento**
-* Benchmark Name: **ArrayList, LinkedList & SynchronizedList**
-* Benchmark Litle Description: Java Standard Library Collections Benchmark: A Comprehensive Performance Analysis 
-* Metadata & Tags:
+For each on line:
+- Branding: **Java: Informe de Rendimiento** 
+- Benchmark Name: **ArrayList, LinkedList & SynchronizedList**
+- Benchmark Litle Description: Java Standard Library Collections Benchmark: A Comprehensive Performance Analysis 
+Metadata & Tags:
 	* Documention Version
  	* Version
-* Interactive **Table of Contents (ToC)**:
+Interactive **Table of Contents (ToC)**:
+  * This should be horizontal - sub heading  - bellow the heading - up the itnroduction.
   * Reflects document structure
   * Highlights the currently visible section
   * Allows direct section navigation (scroll-linked)
@@ -65,7 +67,6 @@ The generated benchmark report is considered valid only if:
 -  Report version
 -  Benchmark execution timestamp
 -  Git commit hash or artifact version (if applicable)
-
 
 ### SEO and Metadata (Mandatory)
 
@@ -234,7 +235,7 @@ The UI is considered acceptable only if:
 ## Report Spec
 
 Structure:
-- Introduction & Summary
+- Introduction
 - System Under Test
 - Methodology
 - Results
@@ -242,12 +243,11 @@ Structure:
 - Reproducibility
 - References
 
-### Introduction & Summary
+### Introduction
 
-- Purpose of the benchmark
-- Scope and limitations
-- High-level summary of key findings
-- Intended audience (engineers, JVM practitioners, researchers)
+- Objective
+- Key Questions
+- Executive Summary
 
 ### System Under Test
 
